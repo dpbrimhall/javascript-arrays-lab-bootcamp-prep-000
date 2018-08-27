@@ -1,4 +1,4 @@
 function destructivelyAppendKitten(name) {
-  name.Ap('Ralph');
+  name.appendKitten('Ralph');
   return name
 }
